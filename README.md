@@ -80,7 +80,7 @@ If you find this code helpful, please consider citing our paper:
   year      = {2025},
   volume    = {20},
   number    = {8},
-  pages     = {},
+  pages     = {1-13},
   doi       = {10.1371/journal.pone.0330618},
   url       = {https://doi.org/10.1371/journal.pone.0330618}
 }
